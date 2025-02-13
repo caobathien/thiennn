@@ -19,7 +19,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const password = passwordInput.value;
 
         // Kiểm tra đăng nhập (thay bằng API thực tế nếu có)
-        if (username === "Nguyenthituyetvy" && password === "02112006") {
+        if (username === "Nguyenthituyetvi" && password === "02112006") {
             alert("Đăng nhập thành công!");
 
             // Nếu người dùng chọn "Nhớ đăng nhập"
